@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env/
+miniconda3/
+Miniconda3-latest-Linux-x86_64.sh
+
+# IDE & Data
+.idea/
+*.iml
+*.txt
+*.json
+*.csv
+*.jpg
+*.png
+!test_article.txt
+
+# System
+.cache/
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.ssh/
+.local/
